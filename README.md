@@ -114,13 +114,8 @@
 4. 个人资料
 ![image](docs/images/image_ui_msg.png)
 
-# 8 问题反馈
 
-欢迎提交 issue，请写清楚遇到问题的原因、浏览器、操作系统环境、重现的流程和报错日志等。 
-
-如果有开发能力，建议在本地调试出出错的代码。
-
-# 9 参考资料
+# 8 参考资料
 
 - [在线考试系统-部署文档](https://www.kancloud.cn/tangyi/spring-microservice-exam/1322870)
 
@@ -133,11 +128,3 @@
 - [在线考试系统V3.0镜像构建、推送、部署](http://ehedgehog.net/2019/04/22/%E5%9C%A8%E7%BA%BF%E8%80%83%E8%AF%95%E7%B3%BB%E7%BB%9FV2.0%E9%95%9C%E5%83%8F%E6%9E%84%E5%BB%BA%E3%80%81%E6%8E%A8%E9%80%81%E3%80%81%E9%83%A8%E7%BD%B2/)
 
 ***
-
-# 10 关于
-
-交流QQ群：<a target="_blank" href="https://jq.qq.com/?_wv=1027&k=5RKZNF2"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="Spring Cloud考试系统学习" title="Spring Cloud考试系统学习"></a>
-
-QQ群号：996208878
-
-如果您觉得有帮助，请点右上角 "Star" 或者项目底部的“捐助”支持一下，谢谢！
